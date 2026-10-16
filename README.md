@@ -1,3 +1,8 @@
+# Phần 1 : phân tích bài toán 
+Giải thích tại sao Markdown lại giúp AI xử lý nhanh hơn dựa trên cơ chế chia nhỏ Token :
+
+-Markdown giúp AI sử lý nhanh hơn hiệu quả hơn vì cú pháp ngắn gọn , ít kí tự hơn HTML 
+
 # So sánh Markdown và HTML
 
 ## Phần 2. So sánh và đánh giá
